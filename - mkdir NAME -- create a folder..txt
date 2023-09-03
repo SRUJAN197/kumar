@@ -1,0 +1,39 @@
+-> mkdir NAME --> create a folder.
+-> rm -rf NAME --> delete folder.
+-> cd NAME --> change directory
+-> pwd --> showing path of folder
+-> touch FILE --> create a file.
+-> notepad FILE --> open file in notepad
+-> git init --> git initialized localfolder
+-> clear --> start new
+-> ls --> list 
+-> ls -alrt
+-> git status --> showing status
+-> git add . / --all / --a --> git add staging
+-> git commit -m "first commit" --> git commit command
+-> git log --> commited history
+-> git log --oneline --> displaying one line only
+-> git log --pretty=oneline 
+-> git log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+-> cat FILE --> displaying inside file text
+-> git diff FILE --> showing what modified file inside text also showing
+-> git checkout FILE --> revert back - remove modification
+-> git log --pretty=oneline 
+-> git remote add origin URL_GITHUB
+-> git remote -v
+-> git clone URL_GITHUB
+-> git brach BRACH
+-> git branch
+-> git checkout BRANCH
+-> git merge BRANCH
+-> git branch -d BRANCH
+-> git checkout -b BRANCH
+-> git push origin BRANCH
+-> 
+
+
+
+
+
+
+in server DevOps-> git branch -r
